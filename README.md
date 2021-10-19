@@ -1,13 +1,4 @@
-Broken Rock Paper Scissors
---------------------------
+-- Esto es un ejercicio de clase que simula el típico juego de piedra, papel o tijera.
 
-Here is a URL to the broken version of this application:
-
-http://www.wa4e.com/code/rps/
-
-Here is a URL to a working version of this application:
-
-http://www.wa4e.com/solutions/rps/
-
-
+Añade un login controlado con php.
 
